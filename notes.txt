@@ -1,0 +1,34 @@
+in Local ==> 
+git init ==> in gitbash 
+it initialize git on repo (folder) to track changes / owenership , ..
+|
+|
+|
+working tree 
+|
+|
+|
+git add filename ==> on gitbash
+|
+|
+|
+|
+staging area (blocks) (seperated tasks - function)
+|
+|
+|
+|
+git commit -m "message"
+
+
+
+to change master branch 
+git branch -M main
+
+
+to link remote and local repos : 
+git remote add origin link of repo
+
+
+to push / upload files on remote repo (github) 
+git push origin main
